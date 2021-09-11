@@ -1,0 +1,4 @@
+- 👋 Hi, My name is Muhamad Wasim Khan
+- 👀 I’m interested in Python programming , Programming logics, Software Testing and Ethical Hacking.
+- 🌱 I’m currently learning alot of stuff in Software Testing, WebScrapping and Pentesting.
+- 📫 How to reach me : Proacc07@gmail.com
